@@ -1,5 +1,8 @@
 public class Main {
+
     public static void main(String[] args) {
-        new SchedulerGUI().setVisible(true);
+
+        new GUI_Module();
+
     }
 }
